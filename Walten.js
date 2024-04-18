@@ -14,11 +14,11 @@ console.log("answer one");
 
 };
 
-button.onclick = function() {
-    console.log("button check");
+// button.onclick = function() {
+//     console.log("button check");
 
-    let answer2 = input2.value;
-    console.log(answer2);
+//     let answer2 = input2.value;
+//     console.log(answer2);
     
 
-};
+// };
