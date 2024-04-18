@@ -10,4 +10,31 @@ h1{
 }
 
 
-button 
+button {
+    background-color:cadetblue;
+    border: none;
+    border-radius: 10px;
+    color: #101617ff;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 15px;  
+    font-weight: bold;
+    font-family: 'Spectral';
+    
+}
+button {
+    transition-duration: 0.4s;
+  }
+  
+  button:hover {
+    background-color: #c1d7cf;
+    color: #646967;
+  }
+
+input {
+    font-size: 15px;  
+    font-weight: bold;
+    font-family: 'Spectral';
+    border-radius: 10px;
+    padding: 15px 32px;
+}
